@@ -1,0 +1,13 @@
+@media (min-width :450px) and (max-width :1023px) {
+    .main {
+        width: 406px;
+    }
+
+    .content .title {
+        font-size: 17px;
+    }
+
+    .stat h1 {
+        font-size: 24px;
+    }
+}
